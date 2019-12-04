@@ -1,0 +1,4 @@
+
+    [console_scripts]
+    me=me:entry_point
+    
